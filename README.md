@@ -1,1 +1,1 @@
-# igti_bootcamp_m3_votes
+# Votes
